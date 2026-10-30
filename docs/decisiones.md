@@ -6,3 +6,4 @@ Documentad aquí las decisiones relevantes, especialmente cuando resolváis el c
 - ¿Qué valor final elegisteis y por qué?
 - ¿Cómo verificasteis que el fichero resultante seguía siendo válido?
 - URL de la PR en la que se discutió y resolvió.
+Decisión docente: las ramas se revisan mediante PR
